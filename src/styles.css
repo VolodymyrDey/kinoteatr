@@ -1,0 +1,16 @@
+/*
+  //Font: font-family: 'Comfortaa', cursive;
+*/
+
+body{
+  font-family: 'Comfortaa', cursive;
+  font-size: 20px;
+  line-height: 22px;
+  color: #000000;
+}
+
+h1 {
+  color: #inherit;
+  font-family: inherit;
+  font-size: 250%;
+}
